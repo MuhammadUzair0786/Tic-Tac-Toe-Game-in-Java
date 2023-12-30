@@ -4,10 +4,6 @@
 This simple Java program implements a console-based 2-player Tic Tac Toe game. The players take turns entering values (0 for Cross and 1 for Oval) into the 3x3 game board. The program checks for winning conditions and declares the winner or a draw at the end of the game.
 
 # How to Play
-## 1-Compile the Program:
-
-## Open your terminal or command prompt
-Navigate to the directory containing the TicToc.java file.
 
 ## 1-Compile the program using the command
 javac TicTacToe.java
